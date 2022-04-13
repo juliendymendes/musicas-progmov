@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Trab1_PROGMOV</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">Próximo</string>
+    <string name="previous">Previous</string>
+    <string name="musicas">Músicas</string>
+    <string name="albuns">Álbuns</string>
+    <string name="escolha_uma_musica">Escolha uma música:</string>
+    <string name="escolha_um_album">Escolha um álbum:</string>
+    <string name="voltar">Voltar</string>
+    <string name="pausar">Pausar</string>
+    <string name="play">Play</string>
+
+
+    <array name="musicas">
+        <item>Escolha uma música</item>
+        <item>Actionable</item>
+        <item>A new beginning</item>
+        <item>Badass</item>
+        <item>Happy Rock</item>
+        <item>Punky</item>
+        <item>Rumble</item>
+    </array>
+
+
+</resources>
